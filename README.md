@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maryam Amirshahkarami</h1>
 <h3 align="center">a Cybersecurity Engineer and a programmer</h3>
 
-- 🌱 I’m currently learning **CCNP and TIA Network+**
+- 🌱 I’m currently learning **GOlang**
 
 - 👨‍💻 My projects are available at [https://github.com/MarymAmirshah](https://github.com/MarymAmirshah)
 
